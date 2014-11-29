@@ -6,7 +6,6 @@ Lecteur de carte d'identité électronique belge. Ce paquet est celui du "Middle
 Vous pouvez télécharger le paquet au format .pisi à cette adresse :
 
 https://www.dropbox.com/s/pvwvmyafxrb9dlh/eid-mw-4.0.6-4.0.6-1-p01-x86_64.pisi?dl=0
-ou ici : https://github.com/Michel-Be/eid-mw-4.0.6 ==> Téléchargez le paquet pisi
 
 Pour Pisi Linux, après avoir installé ce paquet ajoutez via le terminal les paquets suivants :
 sudo pisi it ccid
