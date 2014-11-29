@@ -1,0 +1,31 @@
+<PISI>
+    <Source>
+        <Name>eid-mw-4.0.6</Name>
+        <Homepage>sudo make install</Homepage>
+        <Packager>
+            <Name>PISIDo</Name>
+            <Email>michel.ancora@yandex.com.tr</Email>
+        </Packager>
+        <License>freedist</License>
+        <Summary>Lecteur carte identité électronique Belgique</Summary>
+        <Description>Lecteur de carte d'identité électronique belge ce logiciel est le "Middleware" qui est le programme de fonctionnement de base, le "Viewer" est si besoin téléchargeable sur http://eid.belgium.be/fr/utiliser_votre_eid/installer_le_logiciel_eid/linux/</Description>
+        <Archive sha1sum="81a652c61dd3d3730a443dbb7e60ffe67f45e03e" type="tar">/home/michel/PisiCreations/eid-mw-4.0.6-1620.tar</Archive>
+    </Source>
+    <Package>
+        <Name>eid-mw-4.0.6</Name>
+        <Files>
+            <Path fileType="all">/</Path>
+        </Files>
+    </Package>
+    <History>
+        <Update release="1">
+            <Date>2014-11-29</Date>
+            <Version>4.0.6</Version>
+            <Comment>eid</Comment>
+            <Name>PISIDo</Name>
+            <Email>michel.ancora@yandex.com.tr</Email>
+        </Update>
+    </History>
+</PISI>
+
+<!-- By PiSiDo 2.0.0 -->
