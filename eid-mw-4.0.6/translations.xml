@@ -1,0 +1,11 @@
+<PISI> 
+    <Source>
+        <Name>eid-mw-4.0.6</Name>
+        <Summary xml:lang="fr">Lecteur de carte d'identité électronique belge</Summary>
+        <Summary xml:lang="en">Belgian eID card reader</Summary>
+        <Summary xml:lang="tr">Belçikalı eID kart okuyucu</Summary>
+	      <Description xml:lang="fr">eid-mw-4.0.6 est le "Middelware" nécessaire au fonctionnement des lecteurs de carte.</Description>
+        <Description xml:lang="en">eid-mw-4.0.6 is the "middleware" required to operate the card readers.</Description>
+        <Description xml:lang="tr">eid-mw-4.0.6 kart okuyucuları çalıştırmak için gerekli "Middleware" olan.</Description>
+    </Source>
+</PISI>
